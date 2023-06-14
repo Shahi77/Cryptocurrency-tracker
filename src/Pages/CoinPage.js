@@ -1,6 +1,6 @@
 import React from 'react'
 
-const CoinPage = () => {
+function CoinPage() {
     return (
         <div>CoinPage</div>
     )
