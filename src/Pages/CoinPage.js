@@ -1,8 +1,9 @@
 import React from 'react'
 
-export default function CoinPage() {
+const CoinPage = () => {
     return (
         <div>CoinPage</div>
     )
 }
 
+export default CoinPage
