@@ -1,9 +1,14 @@
-import React from 'react'
+import React from "react";
+import Banner from "../components/Banner/Banner";
 
-function Homepage() {
+
+const Homepage = () => {
     return (
-        <div>Homepage</div>
-    )
-}
+        <>
+            <Banner />
+
+        </>
+    );
+};
 
 export default Homepage;
